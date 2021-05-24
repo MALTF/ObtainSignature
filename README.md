@@ -2,6 +2,8 @@
 
 Note Get app signature information Uninstall app Use easy-to-use color picker. Better animation integration.
 
+https://github.com/malxt/ObtainSignature/blob/master/WechatQrcode_mini.gif
+
 [YouTube视频 演示地址](https://youtu.be/Y6_BGCnMb00)
 
 [最新版本演示APK文件下载](https://github.com/malxt/ObtainSignature/releases/download/v2.3.26/v2.3.26.05201716_20210520_release.apk)
