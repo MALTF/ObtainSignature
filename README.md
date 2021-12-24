@@ -13,3 +13,6 @@ Note Get app signature information Uninstall app Use easy-to-use color picker. B
 
 
 [历史版本 v1.9.0320](https://github.com/malxue/ObtainSignature/releases/tag/1.9.0320_release)
+[历史版本 v2.3.80](https://github.com/malxt/ObtainSignature/releases/tag/v2.3.80)
+
+[扫码下载地址](https://www.pgyer.com/malt)[下载密码：com.malx.signature]
